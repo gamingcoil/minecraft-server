@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "8d298f32-9a36-3fff-980b-5904b0e13ead",
+    "name": "roey_inminecraft",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
